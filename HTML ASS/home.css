@@ -1,0 +1,48 @@
+
+body{
+   
+        background-image:repeating-radial-gradient(rgba(14, 13, 13, 0.384) ,rgba(0, 0, 0, 0.925)), url('/wallpaperflare.com_wallpaper\ \(1\).jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+#img
+{
+    width:100px;
+    height:90px;
+    margin-top: -1%;
+   
+}
+#img1{
+margin-left: 7%;
+margin-top: -4%;
+font-size: 28px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+color:white;
+
+}
+#one{
+    margin-top: -6.5%;
+    margin-left: 93%;
+}
+button{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:white;
+    background-color:rgba(255, 0, 0, 0.89);
+    border-radius: 10px;
+    border: 3px groove rgba(255, 255, 255, 0.87);
+}
+#search
+{
+    margin-left: 38%;
+    margin-top: -6.8%;
+    font-size: 30px;
+    color:aqua;
+}
+.div{
+    font-size: 40px;
+    font-style: italic;
+}

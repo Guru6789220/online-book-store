@@ -1,0 +1,78 @@
+body{
+    background-color: rgba(7, 7, 7, 0.863);
+}
+#shop{
+font-size: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: italic;
+margin-left: 38%;
+margin-top: 7%;
+color:green;
+}
+.search
+{
+    margin-left: 33%;
+    margin-top:-5%;
+    width:80%;
+}
+#book{
+    width:290px;
+    height:30px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+}
+#books
+{
+    height:37px; 
+    border: 2px solid rgba(0, 0, 0, 0.644);
+    border-radius: 10px;
+    background-color: rgba(0, 0, 255, 0.664); 
+    color:rgb(245, 239, 239);
+}
+#img
+{
+    width:100px;
+    height:80px;
+}
+#img1{
+    color:white;
+    font-size: 30px;
+    margin-left: 9%;
+    margin-top: -4.9%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+#link{
+    margin-left: 75%;
+    margin-top: -35px;
+}
+#new{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:white;
+}
+#about{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:white;
+    margin-left: 60px;
+}
+#web1,#web2,#web3{
+    width:230px;
+    height:300px;
+    margin-right: 10px;
+}
+#web5{
+    width:100px;
+    height:300px;
+
+}
+#one{
+    color:white;
+    font-size: 45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}

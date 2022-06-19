@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Purchase</title>
+        <style>
+            h1{
+                font-size: 30px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-style: italic;
+                color:black;
+                margin-left: 25%;
+
+            }
+            .pur{
+                margin-left:23%;
+                border: 2px solid black;
+                background-color: rgba(0, 0, 0, 0.705);
+                border-radius: 10px;
+                margin-right:45%;
+                padding-left: 5%;
+                padding-bottom:3%;
+                padding-top:10px;
+            }
+            #one{
+                width:250px;
+                height:30px;
+                border:2px solid rgb(255, 255, 255);
+                border-radius: 10px;
+            }
+            button{
+                color:white;
+                background-color: red;
+                width:180px;
+                height:30px;
+                border-radius: 10px;
+                margin-left: 47px;
+                border: white;
+            }
+            body{
+                background-image: url('https://media.istockphoto.com/photos/online-shopping-and-payment-man-using-tablet-with-shopping-cart-icon-picture-id1206800961?k=20&m=1206800961&s=612x612&w=0&h=hcPoUKhWtzHXR3PIAHVgPVZDZaO7R8yZ1wNPkUSsgwU=');
+                background-repeat: no-repeat;
+                background-size: 100%;
+            }
+            #pp{
+                color:white;
+                font-size: 20px;
+                font-style: italic;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Enter Card Details : </h1>
+        <div class="pur">
+           
+         <p id="pp">Card No :</p><input type="text" name="card" placeholder="1234-1234-1234-1234" id="one"><br>
+       <p id="pp">Expire Date :</p><input type="text" name="date" placeholder="00-0000" id="one"><br>
+       <p id="pp">CVV No :</p><input type="text" name="cvv"  placeholder="ABCD" id="one"><br><br>
+        <button type="submit" name="submit" value="submit">Submit</button>
+        </div>
+    </body>
+</html>

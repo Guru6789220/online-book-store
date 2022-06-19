@@ -1,0 +1,15 @@
+body{
+
+        background-image:repeating-radial-gradient(rgba(14, 13, 13, 0.384) ,rgba(0, 0, 0, 0.925)), url('https://c4.wallpaperflare.com/wallpaper/302/456/881/books-keep-calm-and-quote-motivational-wallpaper-preview.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+}
+#menu
+{
+   text-decoration:underline;
+   color:rgba(255, 255, 255, 0.829);
+   font-style: italic;
+   margin-left: 8%;
+}
